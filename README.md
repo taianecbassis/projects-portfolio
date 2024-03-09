@@ -22,15 +22,11 @@ Minhas pesquisas se concentraram na aplicação de ferramentas de Machine Learni
 **Background in:** Python, Time Series, Machine learning
 
 **Links:**
-* [Medium](https://medium.com/@taianecamposbr)
+
 * [LinkedIn](https://www.linkedin.com/in/taiane-c-b-de-assis-975616213/)
 
 
 
 ## Projetos:
 See my main projects:
-
-* **Análise de Dados do Airbnb - Salvador-Ba:** 
-* **Análise de Séries Temporais de Poluentes atmosféricos:** https://github.com/taianecbassis/pollutant-salvador-ba
-
 <sub>  This portfolio is under construction - Feel free to follow and contribute </sub>
