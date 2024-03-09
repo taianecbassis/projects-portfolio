@@ -29,4 +29,5 @@ Minhas pesquisas se concentraram na aplicação de ferramentas de Machine Learni
 
 ## Projetos:
 See my main projects:
+
 <sub>  This portfolio is under construction - Feel free to follow and contribute </sub>
