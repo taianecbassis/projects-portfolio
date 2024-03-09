@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-taianecbassis-brown.svg)](https://www.linkedin.com/in/taiane-c-b-de-assis-975616213/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taianecbassis/projects-portfolio/issues)
+[![author](https://github.com/taianecbassis/projects-portfolio/blob/main/Data%20Scientist%20(1).png) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taianecbassis/projects-portfolio/issues)
 
 <p align="center">
   <img src="banner_taiane.png" >
