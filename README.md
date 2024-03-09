@@ -1,8 +1,4 @@
-[![author](https://github.com/taianecbassis/projects-portfolio/blob/main/Banner_cover%20(1).png)(https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taianecbassis/projects-portfolio/issues)
-
-<p align="center">
-  <img src="banner_taiane.png" >
-</p>
+![](https://github.com/taianecbassis/projects-portfolio/blob/main/Banner_cover%20(2).png)
 
 # Taiane C. B. de Assis
 <sub> Chemical Engineering | Data Science | Time Series Analist | Python | Data Analysis  </sub>
